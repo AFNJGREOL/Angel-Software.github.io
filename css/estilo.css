@@ -1,0 +1,20 @@
+h1 {
+
+	font-size: 37px;
+
+}
+
+h2, header, p, nav, body {
+
+	font-family: sans-serif;
+	background: #EEE0C9
+    
+}
+
+.footer-2 {
+
+	background: #000000;
+	color: #ffffff;
+	font-size: 19px
+
+}
